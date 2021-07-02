@@ -1,0 +1,5 @@
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.Model\bin\Debug\JogoGourmet.Model.dll
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.Model\bin\Debug\JogoGourmet.Model.pdb
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.csproj.CoreCompileInputs.cache
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.dll
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.Model\obj\Debug\JogoGourmet.Model.pdb

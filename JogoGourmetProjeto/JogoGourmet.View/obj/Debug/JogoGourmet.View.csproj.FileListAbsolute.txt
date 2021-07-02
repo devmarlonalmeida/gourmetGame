@@ -1,0 +1,14 @@
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\bin\Debug\JogoGourmet.View.exe.config
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\bin\Debug\JogoGourmet.View.exe
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\bin\Debug\JogoGourmet.View.pdb
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\bin\Debug\JogoGourmet.Model.dll
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\bin\Debug\JogoGourmet.Model.pdb
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.csproj.AssemblyReference.cache
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.csproj.ResolveComReference.cache
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.Main.resources
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.Properties.Resources.resources
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.csproj.GenerateResource.cache
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.csproj.CoreCompileInputs.cache
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.csproj.CopyComplete
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.exe
+C:\Users\Marla1\Desktop\JogoGourmet\JogoGourmet.View\obj\Debug\JogoGourmet.View.pdb
